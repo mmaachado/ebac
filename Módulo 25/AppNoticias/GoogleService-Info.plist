@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>909110563174-v07dprmmifq8l3c3p6pac887rnh709qr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.909110563174-v07dprmmifq8l3c3p6pac887rnh709qr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDFKKmgU9cFZ50JzlqjkMFWJ_J9OWsDyLg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>909110563174</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.marcelomachado.AppNoticias</string>
+	<key>PROJECT_ID</key>
+	<string>ebac-ios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ebac-ios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:909110563174:ios:7ebf3dcc3c9970891f78a7</string>
+</dict>
+</plist>
